@@ -1,4 +1,7 @@
-# Minecraft nodes plugin
+# Minecraft nodes plugin for sane humanity
+
+this version of the project is primarly focused on patching the goddamn thing from the layers of sediment and semen encrusting the project
+
 ![Nodes map screenshot](docs/src/images/nodes_map_example.jpg)
 Map painting but in block game. Contains server plugin and nodes dynmap viewer/editor extension.
 
@@ -153,4 +156,5 @@ See [LICENSE.md](./LICENSE.md).
 # Acknowledgements
 Special thanks to early contributors:
 - **Jonathan**: coding + map painting
-- **Doneions**: coding + testing + lole
+- **Doneions**: coding + testing + lol
+- **birkan**: for being an obsessed retard aboutt his project
